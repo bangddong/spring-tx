@@ -1,4 +1,4 @@
-package stduy.springtx;
+package stduy.springtx.apply;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

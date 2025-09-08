@@ -1,4 +1,4 @@
-package stduy.springtx;
+package stduy.springtx.apply;
 
 import static org.assertj.core.api.AssertionsForClassTypes.*;
 
